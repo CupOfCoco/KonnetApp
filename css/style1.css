@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&family=Tangerine:wght@700&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -9,7 +10,7 @@ body{
     align-items: center;
     background-color: #fceeda;
     min-height: 100vh;
-    background: url(../img/akin-cakiner-nkUFXi0JSX8-unsplash\ \(1\).jpg) no-repeat center/cover;
+    background: url(../img/annie-spratt-8VrDx2R6--c-unsplash.jpg) no-repeat center/cover;
 }
 .container{
    position: relative; 
